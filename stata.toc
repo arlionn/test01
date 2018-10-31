@@ -1,0 +1,5 @@
+v 1.0
+d Author: Yujun Lian, Lingnan College, Sun Yat-sen University
+d 'ttable3':  Mean or Median Comparison for a lot of variables between two groups with formatted table output.
+d {browse "https://github.com/arlionn/ttable3":GitHub} website
+p ttable3
